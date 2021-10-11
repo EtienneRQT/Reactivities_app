@@ -1,0 +1,12 @@
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/bin/Debug/net5.0/Domain.dll
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/bin/Debug/net5.0/Domain.pdb
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
