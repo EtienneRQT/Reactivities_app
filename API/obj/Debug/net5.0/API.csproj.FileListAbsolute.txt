@@ -28,7 +28,6 @@
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
-/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/API.csproj.CopyComplete
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/API.dll
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/ref/API.dll
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/API/obj/Debug/net5.0/API.pdb

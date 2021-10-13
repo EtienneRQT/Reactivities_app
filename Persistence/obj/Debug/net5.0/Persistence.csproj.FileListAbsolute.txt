@@ -9,7 +9,6 @@
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
-/home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
 /home/etienne/Desktop/Working_Folder/C_Sharp_Xamarin_Folder/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
